@@ -1,2 +1,2 @@
-# cli-meriam-webster
+# cli-dictionary
 My command line dictionary for personal use. Retrieving data from Meriam Webster's public api (https://dictionaryapi.com/)
